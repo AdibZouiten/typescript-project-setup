@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "typescript": "^5.1.6"
+    "crypto-js": "^4.1.1",
+    "typescript": "^5.1.6",
+    "url-hash": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5"
   }
 }
